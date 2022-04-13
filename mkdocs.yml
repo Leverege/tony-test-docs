@@ -1,4 +1,4 @@
-site_name: I'm Tony!
+site_name: I'm Tony .2!
 copyright: Copyright &copy; Leverege LLC 2022 | All Rights Reserved | IoT
   Changes Everything&trade;
 theme:
@@ -21,7 +21,6 @@ nav:
       - Architecture: stable/platform-overview/architecture.md
       - Core Concepts: stable/platform-overview/concepts.md
       - Platform Setup: stable/platform-overview/deployment.md
-      - Building a Project: stable/platform-overview/getting-started.md
       - API UI: platform-overview/api-ui.md
   
 extra:
